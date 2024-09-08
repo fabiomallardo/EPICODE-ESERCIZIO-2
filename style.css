@@ -1,0 +1,212 @@
+body {
+    margin: 0;
+    background-color: #EAEDED;
+    padding: 0;
+}
+
+.immagine {
+    background-color: #222F3E;
+
+}
+
+.immaginelogo {
+    width: 100px;
+
+
+}
+
+.primo {
+    display: flex;
+    align-items: center;
+    background-color: #354758;
+    color: white;
+    height: 50px;
+}
+
+.uno {
+    margin-left: 12px;
+    margin-right: 25px;
+}
+
+.due {
+    margin-right: 25px;
+}
+
+.tre {
+    margin-right: 25px;
+}
+
+.quattro {
+    margin-right: 25px;
+}
+
+.cinque {
+    margin-right: 25px;
+}
+
+.sei {
+    margin-right: 25px;
+}
+
+.secondo {
+    background-color: #F56600;
+    text-align: center;
+    color: white;
+    margin-right: 40px;
+    margin-left: 40px;
+
+
+}
+
+.puno {
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.immagineuno {
+    height: 144px;
+    position: absolute;
+    margin-left: 40px;
+    margin-right: 80px;
+}
+
+.terzo {
+    position: relative;
+    text-align: center;
+    display: flow-root;
+    margin-top: 29px;
+    color: white;
+}
+
+.quarto {
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+display: flex;
+align-items: baseline;
+background-color: white;
+}
+.gift {
+    margin-left: 15px;
+}
+.shop {
+    box-sizing: border-box;
+    font-size: small;
+    margin-left: 20px;
+    color: blue;
+}
+.quinto {
+    margin-right: 40px;
+    margin-left: 40px;
+    display: inline-block;
+    background-color: white;
+}
+.immaginetre {
+    width: 300px;
+    height: 378px;
+    object-fit: cover;
+    margin-bottom: 10px;
+    margin-left: 12px;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+
+.immaginequattro {
+    width: 300px;
+    height: 378px;
+    object-fit: cover;
+    margin-bottom: 10px;
+    margin-left: 58px;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+
+.immaginecinque {
+    width: 300px;
+    height: 378px;
+    object-fit: cover;
+    margin-bottom: 10px;
+    margin-left: 58px;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+
+.immaginesei {
+    width: 300px;
+    height: 378px;
+    object-fit: cover;
+    margin-bottom: 10px;
+    margin-left: 59px;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+.sette {
+    margin-top: 50px;
+}
+.visore {
+    height: 400px;
+    width: 95%;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.nove {
+    display: flex;
+align-items: baseline;
+text-align: center;
+margin-left: 625px;
+margin-top: -12px;
+}
+.paranove {
+    text-align: center;
+    margin-top: 0;
+}
+.gaming {
+    box-sizing: border-box;
+    font-size: small;
+    margin-left: 20px;
+    color: blue;
+}
+.cuffie {
+    height: 400px;
+    width: 95%;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.dieci {
+    display: flex;
+align-items: baseline;
+text-align: center;
+margin-left: 625px;
+margin-top: -12px;
+}
+.sound {
+    text-align: center;
+    margin-top: 0;
+}
+.audio{
+  color: blue;
+  box-sizing: border-box;
+  font-size: small;
+  margin-left: 20px;
+}
+.logodue {
+    width: 200px;
+    margin-left: 600px;
+}
+.immaginefinale{
+     background-color: #222F3E; 
+     padding: 70px;
+}
+.fine {
+    display: flex;
+    align-items: center;
+    background-color: #354758;
+    color: white;
+    height: 50px;;
+}
+.parafine {
+   margin-left: 730px;
+   text-decoration: underline;
+}
